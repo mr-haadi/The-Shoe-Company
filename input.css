@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.transition-menu {
+    transition: right 0.25s ease-in-out;
+}
+
+.mt {
+    margin-top: 0 !important;
+}
